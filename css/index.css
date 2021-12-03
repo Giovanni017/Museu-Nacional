@@ -60,37 +60,37 @@ nav ul li a:hover {
 
 /* Principal */
 aside {
-    width: 350px;
-    float: right;
     background: #ebe7dd;
+    float: right;
     padding-bottom: 30px;
+    width: 350px;
 }
 
 h4 {
     color: #86521a;
-    text-transform: uppercase;
-    padding-bottom: 3px;
     margin-bottom: 0;
+    padding-bottom: 3px;
+    text-transform: uppercase;
 }
 
 #conteudo {
-    width: 710px;
     float: left;
+    width: 710px;
 }
 
 section#visita {
     background: #cdc8b1;
-    padding: 10px 27px 27px 27px;
     margin-top: 10px;
+    padding: 10px 27px 27px 27px;
 }
 
 /* Formularios */
 input {
     background: #fff;
-    height: 20px;
     border: none;
-    width: 80px;
     font-size: 1em;
+    height: 20px;
+    width: 80px;
 }
 
 input.campo {
@@ -100,9 +100,9 @@ input.campo {
 input.botao {
     background: #9b9271;
     color: white;
-    width: 100%;
-    height: 40px;
     font-size: 1.2em;
+    height: 40px;
+    width: 100%;
 }
 
 fieldset  {
@@ -116,17 +116,17 @@ legend.visita {
 /* Galeria */
 section#galeria img {
     height: 93px;
-    width: 93px;
     margin-left: 2px;
     margin-top: 3px;
+    width: 93px;
 } 
 
 section#galeria a {
-    display: block;
     background: url(../assets/fundo-foto.png) no-repeat;
+    display: block;
     float: left;
-    padding: 17px 15px;
     margin: 10px 0 0 20px;
+    padding: 17px 15px;
 }
 
 section#galeria {
